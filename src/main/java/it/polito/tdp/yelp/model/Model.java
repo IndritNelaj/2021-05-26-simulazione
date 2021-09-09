@@ -12,4 +12,5 @@ public class Model {
 	return dao.getAllCities();
 	}
 	
+	
 }
